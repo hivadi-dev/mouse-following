@@ -1,7 +1,7 @@
 # mouse-following
 
 ![Image](https://github.com/user-attachments/assets/b2ac9f68-5aad-471d-a77d-6f70379514d3)
-
+https://hivadi-dev.github.io/mouse-following/
 
 - Developed by hiva dargazani
 
